@@ -1,6 +1,6 @@
 # Walmart Sales Forecasting
 
-This project focuses on time series forecasting to predict weekly sales for various departments across different Walmart stores. The goal is to build an accurate machine learning model using historical sales data and external features, and then use that model to forecast sales for 12 weeks into the future.
+This project focuses on time series forecasting to predict weekly sales for various departments across different Walmart stores. The goal is to build an accurate machine learning model using historical sales data and external features, and then use that model to forecast sales for 12 weeks into the future. 
 
 ## Project Pipeline
 
