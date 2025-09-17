@@ -4,7 +4,6 @@ This project focuses on time series forecasting to predict weekly sales for vari
 
 ## Project Pipeline
 
-The project follows a standard machine learning workflow:
 1.  **Data Loading & Cleaning:** The three datasets (`sales`, `features`, `stores`) were loaded, merged, and cleaned to handle missing values.
 2.  **Feature Engineering:** New features were created from the data to help the model learn time-based patterns.
 3.  **Data Preparation:** Categorical features were one-hot encoded and the data was split into training, validation, and test sets using a time-aware split.
